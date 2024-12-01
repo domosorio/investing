@@ -1,2 +1,2 @@
-# investing
+# Investing
 Investing Analysis
